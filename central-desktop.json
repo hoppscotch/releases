@@ -1,11 +1,11 @@
 {
-  "version": "v23.8.1-1",
+  "version": "v23.8.3-2",
   "notes": "Initial Test Version",
   "pub_date": "2023-11-08T07:39:40.703Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWVFmRFUrT1NkWVA4Q1lCd0dENnF4OGwzUzh3TUpQcTF3aFA3dXdINXlqUkN5T1dmZFYvaHEydzlHeEFVUDd2TXgybzR5cUlvNWhqdWlaMjE2OTlRSnVHN3FDL1BFWFE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk5NDMwMDE1CWZpbGU6SG9wcHNjb3RjaC5hcHAudGFyLmd6CnhWa0gzNENMaHNlemQzMGJ6ajNLZDZkM085U3dKb0wvZkRmUW5JNDZwTkd3dkZWQWp0MmxLd28zalNiNWF5bmVjeFVYdTRZN0F1M2FkemdBSU1ZcER3PT0K",
-      "url": "https://github.com/hoppscotch/releases/releases/download/v23.8.1-1/Hoppscotch-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWVFmRFUrT1NkWUppK2Vubkk1bjc5NlgyZFAxZUxCaWdXaVRna1JMVGJPOG1LdUJmZFVlUjZBTmlTcEZTR0ZHNjJhR0dseU1jRmRvQ3l6VFRpZVRJbzZLak1BV2FxNHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk5NDMxMjUxCWZpbGU6SG9wcHNjb3RjaC5hcHAudGFyLmd6CkRMbnhWdVJSemhuK0VCdUR2Zkx5dlJPSTg5UFVkOFNNV0txOTdpNmU5aHJ1MHpBUGN6UUNiTzVCdkQvSnE4bUxPM1BLVlpXYXUyb1N2Z0gyL0hqOERRPT0K",
+      "url": "https://github.com/hoppscotch/releases/releases/download/v23.8.3-2/Hoppscotch.app.tar.gz"
     }
   }
 }

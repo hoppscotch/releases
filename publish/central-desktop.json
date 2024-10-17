@@ -1,23 +1,23 @@
 {
-  "version": "v24.9.2-0",
-  "notes": "This is a bug fix release that adds some bug fixes and improvements to the app",
-  "pub_date": "2024-10-14T21:21:28.215Z",
+  "version": "v24.9.3-0",
+  "notes": "This is a bug fix release that fix issues with translation fallback to English not working",
+  "pub_date": "2024-10-17T15:15:08.591Z",
   "platforms": {
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWVFmRFUrT1NkWUVEdGszSG9GMGorWWV2UTNTWjZNQ0pOV3FxcUptT3o4WlFCUTA2Szd1NmNnZ1Q0VHBnTzIyaWxIMWE4VkpsY0xBOHM0dmc3d2IwdGpDZEIvUjBISlFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI4OTM3MDEzCWZpbGU6SG9wcHNjb3RjaC5hcHAudGFyLmd6Ck5JT0p4cjd1bDhGQ2h1amZreEorVTJEK2t0bEVoQmVaL20zUFBpY1ZHSjd6SnJ5djErL2xQcFU4d1ZsNjdyZzQ3TFNQUVJCNzZIaWRsaVhqS0xhTUJnPT0K",
-      "url": "https://github.com/hoppscotch/releases/releases/download/v24.9.2-0/Hoppscotch_mac_update_x64.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWVFmRFUrT1NkWUt1L2VrQ3hCRjVPaFowSWNRbUI2N0kzMTJJUHJWZXRidm42VS9XWW1NUm8yVXNHUm9MTjQzOXRJQTVqYTlXdUhlcUVlUlZST1lpamNQNzd2V0xCaVF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI5MTcxMzA4CWZpbGU6SG9wcHNjb3RjaC5hcHAudGFyLmd6CmRRUkdRemd5TVpNelBnUDUzcmVpdHNnVlBhRDZKLzNKa2oxWWR2c2dvUGR2VUdCQm5XUFJZcGxvTHJxL3c3RHNPL0FLWjI1Z3NYMHRkOWxCREVpbkJRPT0K",
+      "url": "https://github.com/hoppscotch/releases/releases/download/v24.9.3-0/Hoppscotch_mac_update_x64.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWVFmRFUrT1NkWUg3YnRlbC8zL2REU0I4dlFPaC9yRStpaDBjU2pJZXBkdmxoNG9JNzhqN2k3ZnRVNEY2ZmpDbDA4MW9DOGZxNldXOEg5MTVxM0grNnJOZzR2azNiMFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI4OTM3MTgxCWZpbGU6SG9wcHNjb3RjaC5hcHAudGFyLmd6Cld6Smw5d0srN2lOQUUrSXd3MVo3VlkweGdvSEMxN050NjIwQ0grV01KNlNBWCtQRkpRTEtUbjNaVndMQXorWXJsQVRXalhrRUpCT2IxWEJzeDBpZkF3PT0K",
-      "url": "https://github.com/hoppscotch/releases/releases/download/v24.9.2-0/Hoppscotch_mac_update_aarch64.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWVFmRFUrT1NkWUlpWTJvN29wUHFUNitpS2tGT3NHSk0rbi82NHNpWlVvY0tQR01VMEZaOTVUeUFtNVpBdVpVbFFaL3loVytNNHlEeE9pQUUxZzRRNmJnb3RiMEtGRndFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI5MTcxNDczCWZpbGU6SG9wcHNjb3RjaC5hcHAudGFyLmd6CnBOc0grUkp0WGYzMjZpTFNJNlJzK3p0a3NJcnZkN213R0QyQUdzVEdFckJmQm1yN3BiM0xPY3V5djJNeFRyVm5DelRTUzdXN1hTSDdDd0VWTmFiWkJnPT0K",
+      "url": "https://github.com/hoppscotch/releases/releases/download/v24.9.3-0/Hoppscotch_mac_update_aarch64.tar.gz"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWVFmRFUrT1NkWU9QekRzWEtPM3hLMStxWEVWTk43R0ZoUmIvMnhkYW1iNlUzZ2sxVjZzQURMd2dLSEpIOW1jendiQS95UUpTVVJVVE9pTHZEQ3lnYXE3NFdTTE9rZEFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI4OTM3Mjk3CWZpbGU6aG9wcHNjb3RjaF8yNC45LjItMF9hbWQ2NC5BcHBJbWFnZS50YXIuZ3oKWkl6c1pnUUJJMjNQZnlFd1FKR3FKSnRsK2JjMllsbXhzalhPNy9VSzZOUXRuby9HcjdxdGs5QVZaYnRSZkVIVGZIRitCaUIxU045YmhLMldNUkw2Qmc9PQo=",
-      "url": "https://github.com/hoppscotch/releases/releases/download/v24.9.2-0/Hoppscotch_linux_update_x64.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWVFmRFUrT1NkWUl2V1hXZXNmVGtzMVAzQ3F0NGdoc1FsUUJoOU5Ud1F2M2VUM29xeWRxUmtSQnF0a05vWVpLdHB3WlgrQ1piK2IwQVhVczNmYVlDSFYyMFdyS2JWV2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI5MTcxNjA3CWZpbGU6aG9wcHNjb3RjaF8yNC45LjMtMF9hbWQ2NC5BcHBJbWFnZS50YXIuZ3oKU0RSQzdwRUhEZVQ0THJIYk9qa2Zrc0I2TWk0aEhDQ1Q5Y01BVlRKS2tSNW5oV1ptMkl6SjlHS0haaHdhRlFJK1ZvM2t4NlhCNFNTRWphNXd5OWhWRHc9PQo=",
+      "url": "https://github.com/hoppscotch/releases/releases/download/v24.9.3-0/Hoppscotch_linux_update_x64.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWVFmRFUrT1NkWUJVQWp5a25RUE9IdVFQMzcyV3VpZE9JRzhlVDZpQkpEVlk5UlVuUStLYTdHVFhtM1Q3WVM5ejl6clVwbTd2MmwzQ0tNTzRFNmI4bUVPK0tpSDJpckFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI4OTM3ODY5CWZpbGU6SG9wcHNjb3RjaF8yNC45LjIuMF94NjRfZW4tVVMubXNpLnppcAo3eTd3cEdkYnZVYTJrcWdXdjQ1RkhnMnlDMU92N05yNVlpYzJTSWtlQzlLU1JWdlJyampiVzVqOTAxOUpkUFBqcjhYTXRORGUycXppOHJ4WElCdzZCQT09Cg==",
-      "url": "https://github.com/hoppscotch/releases/releases/download/v24.9.2-0/Hoppscotch_win_update_x64.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWVFmRFUrT1NkWU0wRzU2Qk55bE9YQlVMNy9CamlQNDBjc1FJQU41WCtYZjhWSThFeWh1cEZGemZ0alNtcmJZdS9wVGRPWnQxK2kySnJ6WHBpVE4weTJ2MXNuZTk5QkFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI5MTcyMzI1CWZpbGU6SG9wcHNjb3RjaF8yNC45LjMuMF94NjRfZW4tVVMubXNpLnppcAp1Zi9icUdUa2FyYXB6QVczS29DQ0NtaS9zaTB1SVhTaENtOG1CNUZ4NWExOVJQSEhMUlVBWUpoWXg1a0QzL0t5dkRvakp0N0NWYUhUYUNYeGVzVXhDdz09Cg==",
+      "url": "https://github.com/hoppscotch/releases/releases/download/v24.9.3-0/Hoppscotch_win_update_x64.msi.zip"
     }
   }
 }

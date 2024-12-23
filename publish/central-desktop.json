@@ -1,23 +1,23 @@
 {
-  "version": "v24.11.0-0",
-  "notes": "This is a major release that introduces features like the collection runner, CLI collection runner enhancements supporting iteration alongside data feed and the ability to specify multiple content types for request body form data.",
-  "pub_date": "2024-11-28T15:05:31.206Z",
+  "version": "v24.12.0-0",
+  "notes": "This is a major release with features like generating pre and post-request scripts via AI-powered prompts (cloud offering), bulk edit mode support on requests with multipart/form-data content types, and admin role syncing between SAML provider and Hoppscotch (Enterprise offering) alongside a few bug fixes.",
+  "pub_date": "2024-12-23T14:25:35.957Z",
   "platforms": {
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWVFmRFUrT1NkWURubFRIc2xEUzg0Vk5XYmZYQlRMaThzRy8zNjRwTU9NMEVwQWhJVUNtTzdmZ2ZMVzEwbU5iM3ozbFVYdm5LTExjZ0Z2SDFLQXdFMTFEdmVjWWZsa3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMyODA1NTk5CWZpbGU6SG9wcHNjb3RjaC5hcHAudGFyLmd6CmFKakY5Q1pBTFd6N1ZUZFF3RmRlT2t2WUlhTzNabGtNT09EVjJuWVpGZ2tJMEJWbHVsek9yclN1SWxuSlFyclh1Y0hlblRxZ0RXcHhKcWFCa2RabERRPT0K",
-      "url": "https://github.com/hoppscotch/releases/releases/download/v24.11.0-0/Hoppscotch_mac_update_x64.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWVFmRFUrT1NkWUJ3R25jcWNodVVBNHRpT3pNS2VrZWhDdFJ4TE93Q0tPclFpR0Fkc1BtTHlxSnpFRUI1T2RKbjJUUStEc3NYQkxOUXMwQ3VGdEVYT2R0eXNwY1Iwd2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM0OTY0MTE3CWZpbGU6SG9wcHNjb3RjaC5hcHAudGFyLmd6Ckg0ZHNLYkg5dGt6Tit1anN0Q1JvRUQyWDUzeVF2NU1wUWhmUnI3bWpBbEsyblJoUjVJbDFlamlRZW1XZGZwZTBVNjhoZWlJc2NDRDdvWHVETGF6OUR3PT0K",
+      "url": "https://github.com/hoppscotch/releases/releases/download/v24.12.0-0/Hoppscotch_mac_update_x64.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWVFmRFUrT1NkWUdaVVhJMXZncHdVMGZoZ1ZReTg4U0pqRkpPOGk0T1phUUlTUFNldXh6QWxHTVl4TFRJaE9nYmhMbFlNQW81bjdFTzk3T3A2SlNJdG5VU3FaVXNMY0FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMyODA0ODQ5CWZpbGU6SG9wcHNjb3RjaC5hcHAudGFyLmd6CiswcE4yOFVGQWErK2s2ZGJIekY4c0VjOXFYbUdlazJvT09jRld0QWFtQ3V3U2Z6anp5TUJjT0hORkdvL2l5UzgvSlVxMGFCOG1lS0NWK3drSmVIZEJnPT0K",
-      "url": "https://github.com/hoppscotch/releases/releases/download/v24.11.0-0/Hoppscotch_mac_update_aarch64.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWVFmRFUrT1NkWUlZQ2FxVUNNYnV0aEJibTJ0SENZQ0l5ZE5LR3kwUmZPZUNBdlNrVCtrMUo3OHJSSTZRenFNWmRVbVEreDRZZ1RHMThpTGJHei9nbi9Cd2c1Yzc1R1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM0OTY0MDkyCWZpbGU6SG9wcHNjb3RjaC5hcHAudGFyLmd6CmI2QlZ5UXgxSExyTUx5dFpzNzMvQVIrdkE2OWVLNnZOUElqTXlPeDVhTWxkQVBxck1adVlTSTRDTDNtYTV6VGJuRVVkQy9ENEJDZXFWakJ5dnJPbkJ3PT0K",
+      "url": "https://github.com/hoppscotch/releases/releases/download/v24.12.0-0/Hoppscotch_mac_update_aarch64.tar.gz"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWVFmRFUrT1NkWUVCWFp4dFZuajRMWjZpTVI1SUFCNkd5SGFMY0RYNlZPemNVMmZXZ3BERUNjV3dQRzZDMDdWUlRXdGlCdVgxR1N0b0RMWlRORDhzYzBKME5FVGhGY2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMyODAwODk5CWZpbGU6aG9wcHNjb3RjaF8yNC4xMS4wLTBfYW1kNjQuQXBwSW1hZ2UudGFyLmd6Ckc3Yk5WdTR3VDRJUCtVVmh5M2ZSQk5GT2cxSmhJdWp2UUx3QVpLMnlKVHR6V0FGSXZ1MDhSemMvV1Vwc24raXhRd0hWTGtLT1BMdnZKZUs1YlYrWkNBPT0K",
-      "url": "https://github.com/hoppscotch/releases/releases/download/v24.11.0-0/Hoppscotch_linux_update_x64.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWVFmRFUrT1NkWURaTG9KWVZLYm9DUExwTDFtdG1MclI0ZExyem9nUHAvZmtGejFwWlQ1TFMrWVppT0ZOOXY4SE9oV1FSRng2L3VVcnVHZzM4Zkw3OXMzTWN6NHdYOVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM0OTY0NTc5CWZpbGU6aG9wcHNjb3RjaF8yNC4xMi4wLTBfYW1kNjQuQXBwSW1hZ2UudGFyLmd6Ck1aTU9vaVNFRTU0Nm1WU3VyMm0raGVpT08vYjBoMlVCN2t1Q2xPcDlrUUZQSm5pSXJMelNSMnd3QjBkdTNRMzRWb01tTXhCNm8ybzNlcCtKTEtVaEN3PT0K",
+      "url": "https://github.com/hoppscotch/releases/releases/download/v24.12.0-0/Hoppscotch_linux_update_x64.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWVFmRFUrT1NkWUZJSFhmOHlNQXlmcEZrZVVBSXJwc0IxRHNaaHpWS1I3TWNya3o4emtpTTVwVmIxbnljR2ZrUm9PYVM4MGFKdHFVWWswekx3cEF0SGRUZmtpTjdJR1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMyODAxNTM4CWZpbGU6SG9wcHNjb3RjaF8yNC4xMS4wLjBfeDY0X2VuLVVTLm1zaS56aXAKWGRZNmFjTkp3SW1rdUpQcHNFSHlUS2dSNEZjMDQ3RzB1Q2R5bkRGTDY1SzN1LzJxcndVU1ZRdERDWlNHbGJ5MUNucUxQMmExVjVNa1ZIR3VVQTE2QlE9PQo=",
-      "url": "https://github.com/hoppscotch/releases/releases/download/v24.11.0-0/Hoppscotch_win_update_x64.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWVFmRFUrT1NkWU1QYXpIYUs5RncyV2tVbGIyamRBT0g1ZnA5cEdrWFM1RDdmWEkyUFNvek9OVHByUHdkWkcxUTBlRVdkYllqUDFGWmNSSFpPNVlMZzdJMVRxUHpvZkFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM0OTY0OTg1CWZpbGU6SG9wcHNjb3RjaF8yNC4xMi4wLjBfeDY0X2VuLVVTLm1zaS56aXAKYUpnQ2N0K2FnV0lGc2dpUVdGY0VjQWFCNnVHMTZnbENNT3ZETWk3RlBSaUVJTTFCYys3THdNTW9HQTJmSUVWY044VWFsMHBsanQrdFZ5eWJ3ZjVZQkE9PQo=",
+      "url": "https://github.com/hoppscotch/releases/releases/download/v24.12.0-0/Hoppscotch_win_update_x64.msi.zip"
     }
   }
 }

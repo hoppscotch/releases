@@ -1,6 +1,6 @@
 {
   "version": "v0.1.4",
-  "notes": "This release includes ability to view registered clients including several bug fixes and UX improvements",
+  "notes": "This Hoppscotch Agent release includes ability to view registered clients including several bug fixes and UX improvements",
   "pub_date": "2025-03-04T07:57:40.570Z",
   "platforms": {
     "darwin-x86_64": {

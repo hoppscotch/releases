@@ -1,23 +1,23 @@
 {
-  "version": "v25.6.1-0",
-  "notes": "This is a patch release featuring various improvements and bug fixes across the board.",
-  "pub_date": "2025-07-15T08:12:42.876Z",
+  "version": "v25.7.0-0",
+  "notes": "This release introduces a new onboarding flow for SH instances, scripting editors powered by Monaco as part of the experimental scripting sandbox, and advanced configuration options for OAuth 2.0 requests alongside various enhancements and bug fixes across the platform.",
+  "pub_date": "2025-07-30T08:57:41.286Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWVFmRFUrT1NkWU5XaXh0RjFTY0pSRk94MUs4M1pHaEtkR2FWYUt6c1Bic2Y2M2tFTW9wdnYvdzE0Y1U5VUNMOGZoZmtHU21iUmFvS3NGTHVVdXRKT0MwdndTaE1qTEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUyNTY2MDY3CWZpbGU6SG9wcHNjb3RjaF8yNS42LjFfYW1kNjQuQXBwSW1hZ2UKbnB4dEMvelJXaGx1SkZHN1VtVFpMUnlWTUhlamJJUGpmOW9EUWNtUWR5ZUR2bkdUSkpweTIvOTRsblpwUkhtVktmcWl0dTJzbVhZOUhNUW5IQ2ptRHc9PQo=",
-      "url": "https://github.com/hoppscotch/releases/releases/download/v25.6.1-0/Hoppscotch_linux_x64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWVFmRFUrT1NkWUdMbGoyY00zaWxyNFJVYm00M1FlTWx2WldLamZGSHZkdzZSd3AzRGV2S3BUek9UdGR4RllzWUVIQWlRd1dJV2hhRDZDL21iSmlrMlBsd2toblVvcWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUzODY1MDIwCWZpbGU6SG9wcHNjb3RjaF8yNS43LjBfYW1kNjQuQXBwSW1hZ2UKNk5oZTVTNWU5eGZON0k1R2hMbThVQUdNd2xrNm9rS0dyaVVrY2RYelpUWWVzUTU5QWJ6Z01FZTJaNC9icmVYQWNFVm0zNFJYaUFqTEdjRFJidWlBQ1E9PQo=",
+      "url": "https://github.com/hoppscotch/releases/releases/download/v25.7.0-0/Hoppscotch_linux_x64.AppImage"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWVFmRFUrT1NkWUR3Z2t2VVdKaHFIUGU5eW1GWEdJaXBZZ0JsZGg2QnA2NUYyUFFGRU11cHJDYmcvZzFybUhYL0JZZG82UzlVMkp5emlKWi92OG9Wajh0a1JoamFYQ2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUyNTY3MDcxCWZpbGU6SG9wcHNjb3RjaF8yNS42LjFfeDY0X2VuLVVTLm1zaQo2TXZlZ0trS1lQSFpaNTlaS2tTMm9BVnkrM2lONmo1NlNVZ2FWQ1U2dUVzVDZjMGZiR1p1VStlbGNTQVF2V3NZOURHNm1qckxpWm1xZ29IRnRHS1lEQT09Cg==",
-      "url": "https://github.com/hoppscotch/releases/releases/download/v25.6.1-0/Hoppscotch_win_x64.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWVFmRFUrT1NkWUtsUkR6VkNtWmVURlc5Y3hBZSt4SnpqOTIzb3N2QnJDWUNKSEE1NVl4VlRXd1IzQjBDZUJHMGovQUNUMmtzZkJsYURPNUQvQjVvY1pwNWZtNm92K2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUzODY1ODA3CWZpbGU6SG9wcHNjb3RjaF8yNS43LjBfeDY0X2VuLVVTLm1zaQpQem1CajZ1ZHRDT0dXcURIbnJtZ2N1aFRUWVVDcnZHU1B6TmxvdUkxZi9SNXBwelExQ0pGSC9XUld0L1lJVGtvUU9GNE9FUnF0U05LNEpiaWQ0NTFCZz09Cg==",
+      "url": "https://github.com/hoppscotch/releases/releases/download/v25.7.0-0/Hoppscotch_win_x64.msi"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWVFmRFUrT1NkWUhrVU5JRkd3djlycGxsdTZVL0o4cDRURW9WYVB4aTVENkUzRThWRFBzdWFYVEpLRmxwM2xpaU8yMlFydnJpWW80RXRGL3dld0RPTXhZb0x0ekNSWFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUyNTY1NjEyCWZpbGU6SG9wcHNjb3RjaC5hcHAudGFyLmd6CjFXMHNpU3h0T3VBcG9TVmJ3dEJ2dGRCZFpVVG9USk9Lc3hXQS9GWlVtc3MzWmEyeEJKYVdEQUxzK1ZZcDZnNnlySy9KK2ErQVJjTHRxcGlGdXFpSEJ3PT0K",
-      "url": "https://github.com/hoppscotch/releases/releases/download/v25.6.1-0/Hoppscotch_mac_x64.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWVFmRFUrT1NkWUFQOHQ5Q2pmWVlIdTR5MmhKT0pUMmlyT1kvdTV4b3BQYTM1M0cvWkVmRFZaOWh2WndsemxjOGZwTElOajgxQUxvM1hVeEZCTkNPOHBoNlBodXhkdXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUzODY0MjY1CWZpbGU6SG9wcHNjb3RjaC5hcHAudGFyLmd6CnV0K0hNV1hnMlpFR2pVd0Z2NFlrcEJvMzVNcURpZlVrQ2VreU9lOTR5eVhJb2MwM1dkWmZ0M2NQMzQ3bjdTQUM0ZzFGMkl6MnJGWVNNaCt2YnBiNUNBPT0K",
+      "url": "https://github.com/hoppscotch/releases/releases/download/v25.7.0-0/Hoppscotch_mac_x64.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWVFmRFUrT1NkWUhuSjVhVnlucnlGQmtvNDZIaEIvMWFTck5VOHJnNXdSTFY2NXcrYmFDT3dSb2Jjd0xzSytSUjJFSWdsMndzTzV4bTRrY1JaU1BxWWFqR05EQitPVlFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUyNTY1NDY4CWZpbGU6SG9wcHNjb3RjaC5hcHAudGFyLmd6CnE1SGVVaHpKZytZWHUrQTh3ZkVZdTZWem01WDlSQ3dnY1h5WXhVWFVHSDBqZE5FNHVWWDZBYThKc01mTWt0N2tmR1JaV0RHbDc1VUc4aGU1ejhmakFRPT0K",
-      "url": "https://github.com/hoppscotch/releases/releases/download/v25.6.1-0/Hoppscotch_mac_aarch64.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWVFmRFUrT1NkWUJBbGVmNlMxVmcwc29XYW1qeEpmK05GTHpVZndwNExnWE9TWW9xOHl5eUxyMk5pbFc1ZnFBU2pyU1lqb3kwdU5tRGJvdFNnbkdPN2RpbjBIV3BscXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUzODY0NDE2CWZpbGU6SG9wcHNjb3RjaC5hcHAudGFyLmd6ClFMYUllejlKOVdIMUdva1A5MFZ5QjFQb3g1VktQT0RoMnowbSsvSlh2UlFNdkNFaFhnOExWWHZ3N0k0Tmx6aW9idXFFYnM3MG1wQzhWenVoY2xEYkNRPT0K",
+      "url": "https://github.com/hoppscotch/releases/releases/download/v25.7.0-0/Hoppscotch_mac_aarch64.tar.gz"
     }
   }
 }

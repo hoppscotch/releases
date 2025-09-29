@@ -1,23 +1,23 @@
 {
-  "version": "v0.1.13",
-  "notes": "Internal dependency upgrades for improved stability and security.",
-  "pub_date": "2025-08-28T06:33:13.805Z",
+  "version": "v0.1.14",
+  "notes": "This release includes security fixes in the dependency chain and improved handling of multiple Set-Cookie headers in responses.",
+  "pub_date": "2025-09-29T09:36:55.861Z",
   "platforms": {
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTWJiSXlkeHZJU28xZVFSN044alp4bWttcVRpUUlyZ0dYdThEZ0RqWTBqN293bnYzbHdmeDdwa3krcVc5Z0NCTFp4Q1g4YUxwN0FGWng1NEhmcjdGOFVQRnk5dktJNHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU2MzYxOTA5CWZpbGU6SG9wcHNjb3RjaCBBZ2VudC5hcHAudGFyLmd6CjhEMGRuSEUrN0RsdWxzaE1xcGhhbmQrN254YUllTW1lU2lBcjA5WXAxTDdSV2xZTjZBVEJMMm1zQmhLS3lTdUMwS0FRWGw0ejQ2dHFIZmJMeWsyNkNnPT0K",
-      "url": "https://github.com/hoppscotch/agent-releases/releases/download/v0.1.13/Hoppscotch_Agent_mac_update_x64.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTWJiSXlkeHZJU3VrbDdHdHlDblNPbzNtSmpaR3VpVE10ZVZYdjdoUGRjZDVSU1dkRk56NjVLVnlZbFprNWFtTzJYblY2RlhvdWg4czFJOS9NbnQ1MDMxcFpXclc2VndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU5MTM3MzkzCWZpbGU6SG9wcHNjb3RjaCBBZ2VudC5hcHAudGFyLmd6Ckt0bWRvb3M2Zy9xVlFDS3NENmVWeURONHJNbDVGZ3dsZC9TdnFmSE9QU1o2TVg5T1UvZEpsV2VLT1U3b0w5S0xBMjFxQ0JMNEhRSk9KVnl2OWN5Q0J3PT0K",
+      "url": "https://github.com/hoppscotch/agent-releases/releases/download/v0.1.14/Hoppscotch_Agent_mac_update_x64.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTWJiSXlkeHZJU29sYmVlK3lDMmNDa1VEdTlDYzdCWGx0WDBCNytIazhaQWJhSDIraHpWNzJJODFiUkhhT04rei81MVVWTjI3ajdBSE13bkF1RmN2elorZnpKb1QxN3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU2MzYyMDAzCWZpbGU6SG9wcHNjb3RjaCBBZ2VudC5hcHAudGFyLmd6CmFpSmZReEtOeFkwMUd4dDdIbjJHV2ZyamVaV0lSVmNMeWZkc3BvbnNSWnhudG10ZFNBdzlENTRLajJ5USs4RFIzWjBUS3IvajVlYXQxcjFYRXREQ0FRPT0K",
-      "url": "https://github.com/hoppscotch/agent-releases/releases/download/v0.1.13/Hoppscotch_Agent_mac_update_aarch64.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTWJiSXlkeHZJU3JmZVRwemdsbHNXdVozUnVKazViU01RN3JrWERHdElKQXpXWDJVZkxLYUVlUzViOS8vZWt5MzVtVTlVZ0lMbkh5TnRtZFVkQ1VFMDFiM0dPVThPQVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU5MTM3NTEyCWZpbGU6SG9wcHNjb3RjaCBBZ2VudC5hcHAudGFyLmd6CkJESGQxUEZpbVN4MG1SNjdlVHpTNXhPbktOVllweEZ4bzBtdE9Qb3RsWHFjMnhuVG1hdTRkSzZFWFdYSzhCYW1OcUxSRDFMc0NLQ3V4QXRSYnRJaERRPT0K",
+      "url": "https://github.com/hoppscotch/agent-releases/releases/download/v0.1.14/Hoppscotch_Agent_mac_update_aarch64.tar.gz"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWVFmRFUrT1NkWUIyS0l4Y01mZWxOOTNPNVFVSldVcUJtRXZnRU11clFRUkN5bEFKVWI4RkZXQzRmV29aVkcyN3cxY2FzYThHZ21PZEIyRmF6eU95NTBteWtYQ1M1UVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU2MzYyMjQ1CWZpbGU6SG9wcHNjb3RjaCBBZ2VudF8wLjEuMTNfYW1kNjQuQXBwSW1hZ2UKRVpzMWhCVW8yVEVHN0I0L3RaRWJ6cVBxQWtNN01xcU1YRmxSbmM3c1JQdkNDVFlVV2o1eFB6TWZxblpJMWFsV3huZEV4OFlNZWlPV2N4cS9uelRrREE9PQo=",
-      "url": "https://github.com/hoppscotch/agent-releases/releases/download/v0.1.13/Hoppscotch_Agent_linux_x64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWVFmRFUrT1NkWVAwZ3V6WXRaY3A3Y3NxL0Uvd2VSVDRuMWFReGpSVTVMUDI1Q2JMWTNKbUZML29vWXczenFqbTN6alF1Uzk1UGhCeDhQa25GbCtkK1ROakdhQlpHVkFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU5MTM4MDQ2CWZpbGU6SG9wcHNjb3RjaCBBZ2VudF8wLjEuMTRfYW1kNjQuQXBwSW1hZ2UKV2ZaTEZETTladXJ4ZnVYRi9Hang0MkJGZGMybHZyWmpsR2ZqZHBUUnI4alp4aVVya3pwdVNHcUpPZ0ExeXpaWUdtanJQQm0rV3Z2cHYxK2J0RDFDQ3c9PQo=",
+      "url": "https://github.com/hoppscotch/agent-releases/releases/download/v0.1.14/Hoppscotch_Agent_linux_x64.AppImage"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTWJiSXlkeHZJU2g3dGFucFZMMFRhTytIWFh1Y0dOMnhQUVUxODBRTkVYd29kbnRxMjRPaHFvaXZJYWlIRzF4RG9yalo2Z2FId2JQd2hZYnVtdEo3M1JkcXN0eTcxckFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU2MzYyNzU1CWZpbGU6SG9wcHNjb3RjaCBBZ2VudF8wLjEuMTNfeDY0X2VuLVVTLm1zaQppeFZvWTNCK2NqTThsc1l0eTB0eldJZktucktHSzVjL29yMUFyWVRGZG1pcW1aanZYMlp6WkRGMGVRaGc2L2pMNTFtamhjRklrNEJHL0RDU1lzcnVBZz09Cg==",
-      "url": "https://github.com/hoppscotch/agent-releases/releases/download/v0.1.13/Hoppscotch_Agent_win_x64.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTWJiSXlkeHZJU2wzMlNZR0JyVmlSbS9MNDEzOEpkL1pPWERlY2YxVW5GTm41Skc5dkV6SUNUU2xKSjY5WTRuVHNQTi9wQnpVWmNDNGUyVFhHa21KVTdFdDhpVDRXWkFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU5MTM4NTg4CWZpbGU6SG9wcHNjb3RjaCBBZ2VudF8wLjEuMTRfeDY0X2VuLVVTLm1zaQplc0M2bFEwTVkwSU5LckwyQTVPTDMxa2w2YWhMMUtkZG9rbi9LNVE5MmZzUHpXcFMrUkRCSkN3ZTdQaGZrdnROS3FnZ1Y5eG5YNWhjOXhaNUI2TkJEQT09Cg==",
+      "url": "https://github.com/hoppscotch/agent-releases/releases/download/v0.1.14/Hoppscotch_Agent_win_x64.msi"
     }
   }
 }

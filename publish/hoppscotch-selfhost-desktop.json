@@ -1,23 +1,23 @@
 {
-  "version": "v25.11.2-0",
-  "notes": "This is a patch release that includes bug fixes for environment variable detection and UI improvements, as well as enhanced database connection configuration for self-hosted deployments.",
-  "pub_date": "2025-12-11T07:54:17.075Z",
+  "version": "v25.12.0-0",
+  "notes": "This release introduces an organization switcher sidebar for seamless navigation across organizations as part of the Cloud for Orgs tier, the ability to create and manage example responses in collections, and enhanced keyboard shortcuts for the Desktop App, alongside bug fixes and improvements.",
+  "pub_date": "2025-12-22T09:29:07.198Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWVFmRFUrT1NkWUdDYlVDcGc2NUNETlhKR2NYVjJaWlhUK1BpU3ozSU5lazFpWlN1eHVQajZsTk9ZTDEydUNKOHh6c2RBQ3B3Q1dFU3drYUpHcnY4Vnd6MUlMY2FqUHdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1NDM4MTU4CWZpbGU6SG9wcHNjb3RjaF8yNS4xMS4yX2FtZDY0LkFwcEltYWdlCmtSMDZzM2J3dHlzUVB3ZTRjRTVRWW10YzdkNGczOHpJdEsxcDAwTHAwOGk1cThmdFVqVDg4WWlQcm80dFpMNEkxangwNERSYkFnVzFzNmhoWm00VkJ3PT0K",
-      "url": "https://github.com/hoppscotch/releases/releases/download/v25.11.2-0/Hoppscotch_SelfHost_linux_x64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWVFmRFUrT1NkWUs3SUFOVXJQM2FOdVVlRGN3cGNLeS92RFg4UFpSOWhYUG8rSDlQYzA0RDVkakJzam8wT1JaRzArWkw0U0lEM3RWYWU0em44Y2VxYjNqdUhiWUljUmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2Mzk0NDMxCWZpbGU6SG9wcHNjb3RjaF8yNS4xMi4wX2FtZDY0LkFwcEltYWdlCnJFUFl5VjMzUjRxUnRRd0Y4TXlGU3ZtRXNSZWh0UVkweENhOGE4Tmk4Nlh5S3lUNkJGcjZhSytHZ0x3UnFkaUJQM2hGTnN6OHdSalNkZkU0U1g1a0RnPT0K",
+      "url": "https://github.com/hoppscotch/releases/releases/download/v25.12.0-0/Hoppscotch_SelfHost_linux_x64.AppImage"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWVFmRFUrT1NkWU44c1oxbjJqMy96bS82ZUVxMHVVTStvV3FSbWR4a1NjSzRzb3Z6RlNCekx4WU5tQUYxVWxHZkd0NVlONkpFMFgwNDdUWnVieXRtNzYwb2xoVVBLU1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1NDM5NDk3CWZpbGU6SG9wcHNjb3RjaF8yNS4xMS4yX3g2NF9lbi1VUy5tc2kKdU13OG1vS0dWMVJuRXhnYklyVkhvV2NBTFZmWTBLS2NuMEZyYnIxWEJyTjF0dlBGUVFDVDcxNmE4aDRqRTJlNEMyZXUwd3FRQlZZb1hTSVBLU2NaQ3c9PQo=",
-      "url": "https://github.com/hoppscotch/releases/releases/download/v25.11.2-0/Hoppscotch_SelfHost_win_x64.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWVFmRFUrT1NkWUhQM0pSejFzUm1VR05Ka1YrVElvdVVIc2Rkem9yNlVqZUJaUFJZY3JoR1FycXZmSDlyK1VOeE44Z0NKYUpnL3dkVkF5TUdZWnlQeENNVVV6YitMQ0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2Mzk1NjgzCWZpbGU6SG9wcHNjb3RjaF8yNS4xMi4wX3g2NF9lbi1VUy5tc2kKS29TMnUwK3JmbWpYZWpMZStPbmhqam1wbjdVOWNLWXlXcTQzMlBpZXJtSnFOdjFtaGFaeU1YNEJqV2NpbTBsTHVENzdHOEpKQU92RTlSOWd1MjJiQ1E9PQo=",
+      "url": "https://github.com/hoppscotch/releases/releases/download/v25.12.0-0/Hoppscotch_SelfHost_win_x64.msi"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWVFmRFUrT1NkWURTRU0vQmEwRG9QZ2hlS0d3ZTFVWUo2NXhUOWtaUGF6M0EyZ2pUeU5hR3IzLytjYk5wWkh6T2hGOGptVnZ0RFFHcklrN29EWWVTL0dLM0RZUUhqQkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1NDM4MTUzCWZpbGU6SG9wcHNjb3RjaC5hcHAudGFyLmd6Cmk1cndRY09Sd3JFZ3ZxMDJ5YThGeS9EOG1pTmI4V0FnMEoxR0FqL2FLOEZ6S0tONzFrWDFBRHNuS2ViRU9pOUdNRmxQZ00vOERmcGx3NS9LWWU4ZEFnPT0K",
-      "url": "https://github.com/hoppscotch/releases/releases/download/v25.11.2-0/Hoppscotch_SelfHost_mac_x64.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWVFmRFUrT1NkWVBTblJrMzNwdDdjNUZDMTBvM1VYcGJxV2lXcFBaMC8vMzVNMnRUc09iUmEwNEswT3hDcTFGOEZhWUJ4aE1ZS3dwRUQzdUJyQ2lhRVhQWEtFUkJ3THdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2Mzk0MTE2CWZpbGU6SG9wcHNjb3RjaC5hcHAudGFyLmd6CmdxS1hBZ2QzZXNZY3JqWXFMbWk0RkZpcDN1ZkthTm1xSWRzd2pCUWhlM3FtazBJQ0YyRWtFRmxSRk95bW9KNVVML0lOZFdITmxlODdlK0tFSWVzbUJ3PT0K",
+      "url": "https://github.com/hoppscotch/releases/releases/download/v25.12.0-0/Hoppscotch_SelfHost_mac_x64.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWVFmRFUrT1NkWUZhVjVmQ3RUbEgvRmdSWVE2bERuRThRTEZ1bXNBQ1BQeFhhaHRtOUxITDkvMmlYZ2tjUWhDb3pHQXNlQWZwZUVRSkNZb3REMGhNUkduSnUrN3RLemcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1NDM4MDM1CWZpbGU6SG9wcHNjb3RjaC5hcHAudGFyLmd6CmdnUHVYY0dJZ0tUTW1OM2JiWTdaZEQ5REo3Q3RMUzVqLzJGeVJ0Y0FaQ1BJTUpaRXVLZEZQcjB6WVRCS3pZUVdkMDJ3dk5mQ3lUbnNNVHptY0loNUNRPT0K",
-      "url": "https://github.com/hoppscotch/releases/releases/download/v25.11.2-0/Hoppscotch_SelfHost_mac_aarch64.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWVFmRFUrT1NkWUUvYUwwNDRkM3IwdW1OS2IzbDlYN0VSY3ZtdXhQNWl1K0FZNnE3clB1akg1TzRyL1QzS1kxTzFMK1kvaEdWSGVzejNxUkRUQ09mRXhoTERBaXNYcHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2Mzk0MjM0CWZpbGU6SG9wcHNjb3RjaC5hcHAudGFyLmd6CkhOSEJKTkhBbE9jbWhubzJxTlFia25LQTIvT0t5VWZvY3RaK25ud0RWdmZIbGNWOEVBcDFuaXd1RlFzTEVOaThlTmN1OGtlNnFwMGREL0o3MC9xS0RBPT0K",
+      "url": "https://github.com/hoppscotch/releases/releases/download/v25.12.0-0/Hoppscotch_SelfHost_mac_aarch64.tar.gz"
     }
   }
 }

@@ -1,23 +1,23 @@
 {
-  "version": "v26.6.1-0",
-  "notes": "This patch release resolves a Desktop App login loop when signing in to self-hosted instances, adds support for running containers under arbitrary non-root user IDs, and enables response-cookie capture for Agent-routed requests, alongside a lighter JSON response renderer.",
-  "pub_date": "2026-07-15T11:52:31.012Z",
+  "version": "v26.7.0-0",
+  "notes": "This release addresses collection data loss in personal workspaces and request loss in imported large team collections, adds fallback to initial values for empty environment variables and configurable connection timeouts on the Desktop App, alongside security patches and bug fixes.",
+  "pub_date": "2026-07-30T17:50:17.362Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWVFmRFUrT1NkWU5NT2VoU1FZeDE0ZERxVGhmbkR5Ynl6czBDbGN3OVBDdGRQdVQ5bzc5clhXeHhpN2psNmRqeUFGWmxJUGpvelhSbWc1dCtoclRqOUNRSGJxL29SaWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MTE1MjMzCWZpbGU6SG9wcHNjb3RjaF8yNi42LjFfYW1kNjQuQXBwSW1hZ2UKd29yUGZiQTcrZUZ6YmgxNTdkT1NJUGhNVmMrTGt0NUMyVENZL1lLdVVnclk3TnNvcHRJVGlTaXUzYkNveWNKNHpWejJzaVdDdnRwQnllK1RlMFFZQVE9PQo=",
-      "url": "https://github.com/hoppscotch/releases/releases/download/v26.6.1-0/Hoppscotch_SelfHost_linux_x64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWVFmRFUrT1NkWUgwcUR5N3lKOXl0T0Vwa002T1JzbnNweDBlTkZWeUpJdDFQVDdZbHZidnprc3hOMzUySnRCSDFpNEFSTWtUUEV5RWFvOVAxKzIveExOc08zczFnc3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NDMyMTg3CWZpbGU6SG9wcHNjb3RjaF8yNi43LjBfYW1kNjQuQXBwSW1hZ2UKcFJ6VVZ0YTducFl0NllWQ1FiSzJ4YnMrOFhTc0NuOVdFclcrMEZmbTZmK2Y4Q2M5VVVYK29PUXNRejBIaXdVaUJQdkJmdXl2SC9Qbkp1bDJVUy9oQ0E9PQo=",
+      "url": "https://github.com/hoppscotch/releases/releases/download/v26.7.0-0/Hoppscotch_SelfHost_linux_x64.AppImage"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWVFmRFUrT1NkWUloMVVjN0JPek9sOHAvcXNWdXVDNEtBZ0dGUjAra2E1cHU4LzJGQmZIRVBNMm9XNEFPS09UUkJlOEhxcSsyWWNlWWVtVnkvRE84NUovUGJrMW9ua0F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MTE2MTg2CWZpbGU6SG9wcHNjb3RjaF8yNi42LjFfeDY0X2VuLVVTLm1zaQpmNXBWTkxNQ3UzVXFhUlRDeWJyblBseUgxMG1JTXpFcHA0MU5tVHg5QVhOV21SU2xzb0ZMbFlQRVZXVkZLYnNtVUVPUWhZb29KK2E1TU5ISTl3N2RBdz09Cg==",
-      "url": "https://github.com/hoppscotch/releases/releases/download/v26.6.1-0/Hoppscotch_SelfHost_win_x64.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWVFmRFUrT1NkWUo1dEpSVXlibGd1b0lWSXNXQ2c5ZFRSR0ZmV1ZQMWRpSTJkM3lLbkJBamVpbktDQ3FuVlFyclBFYis2U2szQWFTRFhLWjNFZEJxWC9CZ3d3eXJsZ3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NDMzNTk4CWZpbGU6SG9wcHNjb3RjaF8yNi43LjBfeDY0X2VuLVVTLm1zaQpQM2tZQk51UmVqcHBOaVBpL29CZ2N3RlhWU2trSnpOSmNjRU1tb09YY3VaWW5wSE9ZNC9NMStXNEFBNVBhT0ZnZnFxUUp3b0tUYUxXaHpPNGpnZnJDQT09Cg==",
+      "url": "https://github.com/hoppscotch/releases/releases/download/v26.7.0-0/Hoppscotch_SelfHost_win_x64.msi"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWVFmRFUrT1NkWUFpMFdxOGpiQ21ybWZ2OTVjUlhNem5hM2xaK21OZEgzdytta2s1VmllWFR6UHdmSkpseUJzMTZjK2IrYUViVTgzYmtiK0VtVG9RZDFLeEx6ZVdiL3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MTE0ODUzCWZpbGU6SG9wcHNjb3RjaC5hcHAudGFyLmd6ClIwZUJncnFsUlNGZ00xYnZDQ0dvbUFISXB1eTFyRlo2ajFmN0NGTzNTc1pPMGdZVHJhRnFLZkRnenpSM2NybDRqR0crTnZYWW8rRVUvaXYyc1ZaUkJBPT0K",
-      "url": "https://github.com/hoppscotch/releases/releases/download/v26.6.1-0/Hoppscotch_SelfHost_mac_x64.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWVFmRFUrT1NkWUIzOWRieHdEOE5TcDFWL0cwZkxQM29rUm5FREs2eUFrellqY3lpTnBwVFA3QUlPT1YrMWd2NjhZS1JMTWtKYmlZRTQzZmdRcHdkSHJibW8wM0MzdkFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NDMyODk5CWZpbGU6SG9wcHNjb3RjaC5hcHAudGFyLmd6CklYanZ2WkpuK3F0b2U2VDNPUWdTY0pOR01vV0lBOTdjZW5BK0MzUWFoZUtocTBlbTMrWmxBcEtRV2xPODFZUDdkWmcrdTJUelVXczJ4YWdrelNRTkFBPT0K",
+      "url": "https://github.com/hoppscotch/releases/releases/download/v26.7.0-0/Hoppscotch_SelfHost_mac_x64.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWVFmRFUrT1NkWUJQVGZPb2FIVHBZUStFSWFaMlpuUHBkeFhSdUJ0RWIwL1Y5VDY1YVR5K3NMSUNKbmFGNmlFQ0RQYU5XdlZnSitzaFFiMmFFVWZrOG43WUlxL0hJbUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MTE0NDUyCWZpbGU6SG9wcHNjb3RjaC5hcHAudGFyLmd6CjByczAxc2RXUER4cVJJMFVSQThoVzgwTjYrTGp1bEQrY3NJMThDdnBFU3FJNjhUckxtcTljRThHVy9CUXM0V3VYRFBLZ3dTbXhXVHBRNVIrK1RqcUF3PT0K",
-      "url": "https://github.com/hoppscotch/releases/releases/download/v26.6.1-0/Hoppscotch_SelfHost_mac_aarch64.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWVFmRFUrT1NkWVBOY1B0MnVTTTNseFpGY1N3SitadndoZHl3cHJLY2dmbHBQRUthSnp4VDlSN3JBYXlsaTNGK3F6WmlWL0FMdUlsSTE5enVpR2czSTRkcmY1Z2tPaVF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NDMxODUxCWZpbGU6SG9wcHNjb3RjaC5hcHAudGFyLmd6Ckx6NHpHeCtLS1RzaXhPNksvd2RLd2plQ0FJZGNCaWlYazhyZ3VCbnVYZkNmLzBHcitMdjlBWkNHenZ1YVRSMnRxMjI4ZVFEK0RkSnRvNHdKdWErL0FnPT0K",
+      "url": "https://github.com/hoppscotch/releases/releases/download/v26.7.0-0/Hoppscotch_SelfHost_mac_aarch64.tar.gz"
     }
   }
 }

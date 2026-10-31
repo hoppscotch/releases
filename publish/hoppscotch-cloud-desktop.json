@@ -7,10 +7,6 @@
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWVFmRFUrT1NkWUZaOUx5TGxRZXRTYWJMOTJaTjd1VmtIaXdOL0dwQWFqYVE4RWYreUUxb3RWZ3lSZU1sYmtYbjFFQWpJdXViYjFHVmpMT2hFcTNlS0o4YSt5Qkp5eWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzU5NzQ3CWZpbGU6SG9wcHNjb3RjaF8yNi4xMC4wX2FtZDY0LkFwcEltYWdlCktrcSsxb25YV3FrdzE5Q1A5emtYd2NDZ0k4MndrMFlNeW9jVDltWnZ2VzZwQXpYTTJxL2lwZE1paGtTNjhWZ0Q1WjV1Z3dOaTRLK2JqTVY0NFd2TERnPT0K",
       "url": "https://github.com/hoppscotch/releases/releases/download/v26.10.0-0/Hoppscotch_linux_x64.AppImage"
     },
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWVFmRFUrT1NkWURnYTViN2FwY1F6OGdzY1lQaGowaFlWdDIrZThoamgzYTllb3lvb0hnTEt6VzlEUWVLT2JTZkpLS0ZQR21nRi8wY3JPdWw5RXphOUkvdVVpQ2wvTkFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzYxNTI2CWZpbGU6SG9wcHNjb3RjaF8yNi4xMC4wX3g2NF9lbi1VUy5tc2kKNmpBSCtvVUd3MEZvQnhRdVdrVDcyUzJoTWFhcnpVb21TdXhvTHorUTk3VU8wMmtUdDRDOElWZm9HQ1BMSmRvRjBFN2xrc2MvNXcyS3FmYVV1YSszQ2c9PQo=",
-      "url": "https://github.com/hoppscotch/releases/releases/download/v26.10.0-0/Hoppscotch_win_x64.msi"
-    },
     "darwin-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWVFmRFUrT1NkWU1SVnJJTUVHeUJZZ2NDbkR3bDRIOEx6STlGdHhhTDM1WUY0TzdlYnN1TUw4L0pRT2xyay9iMkl4cXVQT1h6WCtDRGxJanpoOW85aklrdFI2c2pPRFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzU4Njk0CWZpbGU6SG9wcHNjb3RjaC5hcHAudGFyLmd6CkJRSytsMVpoajQzdXZpNnFrWHBWTnhGSWNhVGRmVDhUY0RLZms2TGRaZ0h3bElvdmE2ei9pZlZXbWZiWFlSZjM4WkQ5V0VmWVlFcDFwN1FkNm9vOUJBPT0K",
       "url": "https://github.com/hoppscotch/releases/releases/download/v26.10.0-0/Hoppscotch_mac_x64.tar.gz"
